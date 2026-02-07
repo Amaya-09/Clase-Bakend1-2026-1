@@ -120,7 +120,7 @@ public class SellingSystem {
 
 
 		} else {
-			System.out.println("Producto no encontrado");
+			System.out.println( "id" +  id + "Producto no encontrado");
 		}
 
 	}
